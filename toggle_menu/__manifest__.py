@@ -6,8 +6,6 @@
     'sequence': 3,
     'summary': 'Toggling visiblity of Menu Bars',
     'description': 'Toggling visiblity of Menu Bars',
-    'price': 2.00,
-    'currency': 'USD',
     # 'license': 'OPL-1',
     'author': 'AgaramSoft',
     'live_test_url':'https://youtu.be/PY-Aa7-jJj4',
